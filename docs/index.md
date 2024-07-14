@@ -21,4 +21,3 @@ Will link e2y.to/vin/123456789abcdefgh to https://somedomain.com/somepath/*$VIN*
 The most streamlined way to use e2y links is to create integrate e2y.to as a Search Engine in Chrome.
 ```... > Settings > Search engine > Manage search engines and site search > Add```
 
-[Screenshot](docs/site-search.png)
